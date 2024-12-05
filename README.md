@@ -1,4 +1,4 @@
-# SwasthyaChain : Health Records Management Using Blockchain
+# Blockchain-based-EHR : Health Records Management Using Blockchain
 
 
 ## Introduction
